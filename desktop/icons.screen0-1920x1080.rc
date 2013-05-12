@@ -1,16 +1,4 @@
 [Terminal]
-row=3
-col=0
-
-[Rubbish Bin]
-row=2
-col=0
-
-[File System]
-row=1
-col=0
-
-[Home]
 row=0
 col=0
 

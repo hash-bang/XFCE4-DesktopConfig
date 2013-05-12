@@ -1,0 +1,13 @@
+Use_Label=false
+Show_Values=true
+Show_Bars=true
+Colorize_Values=false
+Color_In=#45B43E
+Color_Out=#D54447
+Text=Net
+Network_Device=eth0
+Max_In=4096
+Max_Out=4096
+Auto_Max=true
+Update_Interval=1000
+
